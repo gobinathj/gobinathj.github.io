@@ -1,2 +1,2 @@
-# gobinathmj.github.io
+# gobinathj.github.io
 webpage-minimal
