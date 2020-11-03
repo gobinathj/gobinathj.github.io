@@ -2435,6 +2435,7 @@ input, select, textarea {
 	input[type="reset"],
 	input[type="button"],
 	.button {
+		font-variant: small-caps;
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
