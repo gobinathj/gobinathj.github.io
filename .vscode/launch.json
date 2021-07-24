@@ -6,10 +6,10 @@
     "configurations": [
 
         {
-            "type": "pwa-chrome",
+            
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\gobin\\Documents\\GitHub\\gobinathj.github.io\\index.html"
+            "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\gobinathj.github.io\\index.html"
         }
     ]
 }
